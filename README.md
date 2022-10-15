@@ -2,7 +2,7 @@
 
 > Trilha Explorer
 
-![preview](./assets/screen.png)
+![preview](./assets/screenF.png)
 
 Projeto contruído no evento Next Level Week da Rocketseat.
 
