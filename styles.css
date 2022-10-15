@@ -17,6 +17,24 @@ body {
   background-color: #121214;
 }
 
+header {
+  margin-top: 32px;
+}
+
+header div {
+  width: 120px;
+  margin: 32px auto;
+  background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+  border-radius: 50%;
+  display: flex;
+  padding: 4px;
+}
+
+header img {
+  width: 100%;
+  border-radius: 50%;
+}
+
 main {
   display: grid;
   gap: 24px;
@@ -63,4 +81,5 @@ section ul {
 .channel-list img {
   border-radius: 50%;
   width: 70px;
+  border: 1px solid #443e54;
 }
